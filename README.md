@@ -6,3 +6,7 @@
 
 [Como lidiar con outliers](https://programmerclick.com/article/99281215654/)
 
+[Story telling with data pagina](https://www.storytellingwithdata.com/)
+
+[Story telling with data libro](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
+
